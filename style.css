@@ -184,7 +184,10 @@ text-decoration:none;
 
 width:100%;
 
-padding:25px;
+padding:20px;
+.login-box h2{
+font-size:24px;
+}
 }
 
 }
