@@ -94,7 +94,10 @@ cursor:pointer;
 }
 
 .input-box input{
-
+transition: 0.3s;
+.input-box:hover{
+border:1px solid #38bdf8;
+}
 width:100%;
 
 background:none;
